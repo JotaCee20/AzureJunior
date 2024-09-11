@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+<<<<<<< HEAD
 using System.Reflection.Metadata;
 
 Console.WriteLine("Congratulations!");
@@ -28,3 +29,7 @@ message= "Hello World";
 Console.WriteLine(message);
 
 Console.Write("Hello," + firstName + "! You have" + messagesNumber + "messages in your inbox. The temperature is" + celsius + "celsius.");
+=======
+Console.Write("Congratulations!");
+Console.Write("");
+Console.Write("you wrote your firts lines of code");
